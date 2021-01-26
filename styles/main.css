@@ -1,0 +1,38 @@
+
+:root {
+    /* CSS HEX */
+   --pacific-blue: #2ab7caff;
+   --orange-yellow-crayola: #fed766ff;
+   --gainsboro: #e6e6eaff;
+   --davys-grey: #50514fff;
+   --fire-opal: #f25f5cff;
+   }
+
+h1, h2, h3 {
+    font-family: 'Cabin', sans-serif;
+}
+​
+p, li {
+    font-family: 'Kanit', sans-serif;
+}
+.center
+{
+  
+        margin: auto;
+        width: 9%;
+        /* border: 3px solid #73AD21; */
+        padding: 0px;
+}
+h5
+{
+   text-align: center;
+}
+p
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+ 
